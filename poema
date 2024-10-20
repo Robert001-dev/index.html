@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio Poema</title>
+</head>
+<body>
+    <!-- Título do Poema -->
+    <h1>Meu Poema Simples</h1>
+    
+    <!-- Poema com parágrafos e quebras de linha -->
+    <p>
+        A brisa suave <br>
+        Traz o cheiro do mar <br>
+        E os pássaros dançam <br>
+        No céu sem fim. <br>
+        <br>
+        <strong>Eu sinto a vida</strong> em cada onda, <br>
+        <em>O calor do sol</em> no meu rosto. <br>
+        A natureza fala <strong><em>em silêncio</em></strong>, <br>
+        Com uma voz que acalma o coração.
+    </p>
+
+    <!-- Lista desordenada -->
+    <h2>Itens que me inspiram:</h2>
+    <ul>
+        <li>O som do mar</li>
+        <li>O calor do sol</li>
+        <li>A paz do vento</li>
+    </ul>
+
+    <!-- Lista ordenada -->
+    <h2>Meus planos para o dia:</h2>
+    <ol>
+        <li>Meditar na praia</li>
+        <li>Caminhar ao pôr do sol</li>
+        <li>Escrever um poema à noite</li>
+    </ol>
+</body>
+</html>
